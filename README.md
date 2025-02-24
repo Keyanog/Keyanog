@@ -5,14 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyanog&label=Profile%20views&color=0e75b6&style=flat" alt="keyanog" /> </p>
 
-- 🔭 I’m currently working on **Making AI**
+- 🔭 I’m currently working on **Web and AI technology**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and java script**
 
-- 🤝 I’m looking for help with **Making AI**
+- 🤝 I’m looking for help with **Learning AI technology**
 
 - 📫 How to reach me **keyannazif@gmail.com**
-
+- https://keyanog.github.io/My-Portofulio/
 - ⚡ Fun fact **I am very funny**
 - https://keyanog.github.io/My-Portofulio/
 <h3 align="left">Connect with me:</h3>
