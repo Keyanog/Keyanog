@@ -14,7 +14,6 @@
 - 📫 How to reach me **keyannazif@gmail.com**
 - https://keyanog.github.io/My-Portofulio/
 - ⚡ Fun fact **I am very funny**
-- https://keyanog.github.io/My-Portofulio/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nazif keyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazif keyan" height="30" width="40" /></a>
