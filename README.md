@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **Learning AI technology**
 
 - 📫 How to reach me **keyannazif@gmail.com**
-- https://keyanog.github.io/My-Portofulio/
+- Tell me any question on https://keyanog.github.io/My-Portofulio/
 - ⚡ Fun fact **I am very funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
