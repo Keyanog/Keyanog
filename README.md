@@ -11,8 +11,8 @@
 
 - 🤝 I’m looking for help with **Learning AI technology**
 
-- 📫 How to reach me **keyannazif@gmail.com**
-- Tell me any question on https://keyanog.github.io/My-Portofulio/
+- 📫 How to reach me **nazif.keyan@gmail.com**
+- Tell me any question on https://keyanog.github.io/portofolio/
 - ⚡ Fun fact **I am very funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
