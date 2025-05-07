@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazif Keyan</h1>
+<img src="photo.jpg" alt="Right aligned photo" style="float: right;" />
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyanog&label=Profile%20views&color=0e75b6&style=flat" alt="keyanog" /> </p>
