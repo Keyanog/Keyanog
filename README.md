@@ -2,7 +2,10 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+ <p align="middle">
   <img src="https://media1.tenor.com/m/uRvKNeItESgAAAAd/dev-github.gif" alt="Dev GitHub GIF" width="250"/>
+</p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyanog" alt="keyanog" /></a> </p>
