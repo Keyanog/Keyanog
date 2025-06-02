@@ -16,7 +16,7 @@
 - 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **nazif.keyan@gmail.com**
-- <p>https://nazifkeyan.vercel.app/</p>
+- <p>Web development powered by precision, performance, and a passion for cybersecurity. [https://nazifkeyan.vercel.app/]</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
